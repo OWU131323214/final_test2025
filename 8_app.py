@@ -1,6 +1,6 @@
 import streamlit as st  # streamlit run 8_app.py
 import pandas as pd
-import plotly.express as px
+# import plotly.express as px
 import os
 
 # EXCEL_PATH = "eitango.xlsx"
